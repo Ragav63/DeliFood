@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="4dp"
+    android:background="@android:color/transparent"
+    android:orientation="vertical">
+
+    <!-- Item 1 -->
+        <LinearLayout
+            android:id="@+id/itemll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:elevation="5dp"
+            android:background="@drawable/btnwhitecirclestroke_bg"
+            >
+
+
+
+            <!-- Item Image -->
+            <ImageView
+                android:id="@+id/item_img"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:layout_gravity="start|center_vertical"
+                android:src="@drawable/burgercircle64px" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+
+                <!-- Item From -->
+                <TextView
+                    android:id="@+id/item_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_margin="5dp"
+                    android:gravity="start|center_horizontal"
+                    android:text="Big Mac"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <!-- Item Price -->
+                    <TextView
+                        android:id="@+id/item_price"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:padding="4dp"
+                        android:background="@drawable/btngreencircle_bg"
+                        android:text="$6.30"
+                        android:textColor="@color/white"
+                        android:textSize="14sp"
+                        android:textStyle="bold"/>
+
+                    <!-- Item Calories -->
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:padding="4dp"
+                        android:layout_margin="2dp"
+                        android:text="-"
+                        android:textColor="@color/iconColor"
+                        android:textSize="12sp"
+                        android:textStyle="bold"/>
+
+
+
+                    <!-- Item Points -->
+                    <TextView
+                        android:id="@+id/item_calories"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:padding="4dp"
+                        android:layout_margin="2dp"
+                        android:text="522 Kcal"
+                        android:textColor="@color/iconColor"
+                        android:textSize="14sp"
+                        android:textStyle="bold"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+</LinearLayout>
