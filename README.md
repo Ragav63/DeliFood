@@ -27,13 +27,11 @@ Build and run the application on an Android device or emulator.
 
 Design:
 
-<img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/93568951/368943207-46969e59-e91c-41c7-b765-9f446490394f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240919T100825Z&X-Amz-Expires=300&X-Amz-Signature=0320ea503e55608189bbd3c3adc81c7bf6998d93e1a0a8b6d4b402ae951569f7&X-Amz-SignedHeaders=host&actor_id=93568951&key_id=0&repo_id=859296522"/>  
+<img src = "https://github.com/user-attachments/assets/87f74e06-53f9-4d1d-b4a6-cf0c3b32bef2" width="250" height="400"/>  <img src = "https://github.com/user-attachments/assets/04b106ab-8ce3-4d9b-baac-65c5d6cb5c97" width="250" height="400"/>  <img src = "https://github.com/user-attachments/assets/91b7df7e-0709-4e42-8cc9-a2ad487bfa9f" width="250" height="400"/>  
 
-<img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/93568951/368943425-655f9a5f-0bbc-488b-91cd-1ebaf15a6afa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240919T100903Z&X-Amz-Expires=300&X-Amz-Signature=975a80c525e7ee2ccbea1ed2cfd2a5b31280dd65ace91a3196dcf84691a43e95&X-Amz-SignedHeaders=host&actor_id=93568951&key_id=0&repo_id=859296522"/>   
+<img src = "https://github.com/user-attachments/assets/2f04d95e-195c-4628-9450-c56bda673cec" width="250" height="400"/>  <img src = "https://github.com/user-attachments/assets/b6672ddc-2b21-4368-995f-692203f922ef" width="250" height="400"/>  <img src = "https://github.com/user-attachments/assets/f15f4a6f-8224-42b0-9f7e-4354c50aa3d5" width="250" height="400"/>
 
-<img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/93568951/368943537-a1e10f74-92a0-4ac7-80ce-8dfa536f94b7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240919T100928Z&X-Amz-Expires=300&X-Amz-Signature=9ba8aa17b08b748017e6816a7c161356f177a7ec457131b427582aecb8062144&X-Amz-SignedHeaders=host&actor_id=93568951&key_id=0&repo_id=859296522"/>  
-
-<img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/93568951/368943679-958c6783-beda-4bf1-b736-f0aa285ee157.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240919T100951Z&X-Amz-Expires=300&X-Amz-Signature=e42b9f657e7f2a03199c56f73bc5087b3d8b45144a7182fca85b45c225626e65&X-Amz-SignedHeaders=host&actor_id=93568951&key_id=0&repo_id=859296522"/> 
+<img src = "https://github.com/user-attachments/assets/5377455b-647c-4662-8062-27c4a4d962c7" width="250" height="400"/> 
 
 Usage
 Launch the DeliFood app.
